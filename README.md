@@ -182,14 +182,7 @@ Deposit Return = β0 + β1(Operating Expense Ratio) + β2(Cost-to-Income Ratio)
 
 ---
 
-## Reproduce It Yourself
 
-1. Open `analysis/ratio-workbook.xlsx` to inspect the raw data and computed
-   ratios per bank-year.
-2. Run `analysis/regression.R` in RStudio to reproduce the regression output
-   above.
-3. Read `report/research-report.docx` for the full literature review,
-   methodology, and discussion of limitations.
 
 ---
 
